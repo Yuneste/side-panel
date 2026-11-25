@@ -1,0 +1,9 @@
+{
+  "name": "panel",
+  "version": "1.0.0",
+  "description": "A side panel beside the chat: a card for every finished task, quick notes, other sessions, helpers, model and usage at a glance, a sleep timer and a voice. Built by the side-panel skill.",
+  "author": { "name": "Yuko Makes" },
+  "license": "MIT",
+  "types": "./types/index.d.ts",
+  "skills": ["./skills/"]
+}
